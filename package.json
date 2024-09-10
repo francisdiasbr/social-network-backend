@@ -1,0 +1,33 @@
+{
+  "name": "mudinhas-backend",
+  "description": "Backend do projeto Mudinhas",
+  "author": "francisdiasbr@gmail.com",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "5.1.1",
+    "body-parser": "1.18.3",
+    "compression": "1.7.3",
+    "cookie-parser": "1.4.3",
+    "cors": "2.8.4",
+    "dotenv": "6.0.0",
+    "express": "4.19.2",
+    "express-validation": "1.0.2",
+    "express-winston": "3.0.0",
+    "helmet": "3.13.0",
+    "http-status": "1.2.0",
+    "joi": "13.7.0",
+    "method-override": "3.0.0",
+    "mongoose": "8.6.1",
+    "winston": "3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "3.1.4"
+  }
+}
