@@ -1,2 +1,2 @@
-# mudinhas-api
-Mudinhas backend project
+# social-network-backend
+Social Network backend project
