@@ -1,7 +1,7 @@
 import BaseController from "../base/controller.js";
 
-import User from "./users.model.js";
-import { saveUser } from "./users.service.js";
+import User from "./user.model.js";
+import { saveUser } from "./user.service.js";
 
 class UserController extends BaseController {
 

@@ -1,6 +1,6 @@
 import express from 'express';
 
-import UserController from './users.controller.js';
+import UserController from './user.controller.js';
 
 
 const UserCtrl = new UserController();
